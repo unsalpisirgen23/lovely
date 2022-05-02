@@ -1,0 +1,7 @@
+{
+    "name": "lovely/admin",
+    "type": "n",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
